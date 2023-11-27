@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lucas Lovato</h1>
 <h3 align="center">A passionate Data Analyst from Brazil</h3>
 
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucaslovatorocha" alt="lucaslovatorocha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@lovatovoski" target="blank"><img src="https://img.shields.io/twitter/follow/@lovatovoski?logo=twitter&style=for-the-badge" alt="@lovatovoski" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lovatovoski" target="blank"><img src="https://img.shields.io/twitter/follow/@lovatovoski?logo=twitter&style=for-the-badge" alt="@lovatovoski" /></a> </p>
 
 - 🔭 I’m currently working on [Aventos](https://www.aventos.com.br/#Quem-somos)
 
