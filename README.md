@@ -13,7 +13,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucaslovatorocha" alt="lucaslovatorocha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lovatovoski" target="blank"><img src="https://img.shields.io/twitter/follow/@lovatovoski?logo=twitter&style=for-the-badge" alt="@lovatovoski" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lovatovoski" target="blank"><img src="https://img.shields.io/twitter/follow/lovatovoski?logo=twitter&style=for-the-badge" alt="lovatovoski" /></a> </p>
 
 - 🔭 I’m currently working on [Aventos](https://www.aventos.com.br/#Quem-somos)
 
